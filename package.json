@@ -1,0 +1,22 @@
+{
+  "name": "xpathcreator",
+  "version": "1.0.0",
+  "description": "Extract XPaths and Playwright locators from web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "extract": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0",
+    "typescript": "^6.0.3"
+  }
+}
