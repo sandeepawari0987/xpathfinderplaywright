@@ -1,9 +1,345 @@
 Tag,Text,ID,Name,Type,AriaLabel,Placeholder,RelativeXPath,CssSelector,PlaywrightLocator
+a,"Skip to content",,,,"","","//a[contains(text(), 'Skip to content')]","a.skip-link.screen-reader-text","page.getByText('Skip to content')"
+a,"Get free access to our advanced XPath & CSS course",,,,"","","//a[contains(text(), 'Get free access to our advanced XPath & CSS course')]","","page.getByText('Get free access to our advanced XPath & CSS course')"
+a,"Claim It Here",,,,"","","//a[contains(text(), 'Claim It Here')]","a.elementor-button.elementor-button-link.elementor-size-sm","page.getByText('Claim It Here')"
 a,"",,,,"","","//a[1]","","page.locator('//a[1]')"
+button,"",menu-toggle-317,,,"Menu Toggle","","//*[@id='menu-toggle-317']","#menu-toggle-317","page.locator('#menu-toggle-317')"
+button,"Close Products
+							
+							
+																Ope",e-n-menu-dropdown-icon-3171,,,"","","//*[@id='e-n-menu-dropdown-icon-3171']","#e-n-menu-dropdown-icon-3171","page.locator('#e-n-menu-dropdown-icon-3171')"
+a,"SelectorsHubXPath & Playwright Locators Plugin",,,,"","","//a[contains(text(), 'SelectorsHubXPath & Playwright Locators Plugin')]","a.elementor-element.elementor-element-1e38c73.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorsHubXPath & Playwright Locators Plugin')"
+a,"SelectorsHub ProPaid XPath & Playwright Locators P",,,,"","","//a[contains(text(), 'SelectorsHub ProPaid XPath & Playwright Locators P')]","a.elementor-element.elementor-element-a156383.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorsHub ProPaid XPath & Playwright Locators P')"
+a,"TestCase StudioRecorder  Plugin",,,,"","","//a[contains(text(), 'TestCase StudioRecorder  Plugin')]","a.elementor-element.elementor-element-ede957d.e-con-full.e-flex.e-con.e-child","page.getByText('TestCase StudioRecorder  Plugin')"
+a,"TestCase Studio ProPaid Recorder with advanced fea",,,,"","","//a[contains(text(), 'TestCase Studio ProPaid Recorder with advanced fea')]","a.elementor-element.elementor-element-622ab1f.e-con-full.e-flex.e-con.e-child","page.getByText('TestCase Studio ProPaid Recorder with advanced fea')"
+a,"Check My LinksLinks Checker",,,,"","","//a[contains(text(), 'Check My LinksLinks Checker')]","a.elementor-element.elementor-element-d0c9769.e-con-full.e-flex.e-con.e-child","page.getByText('Check My LinksLinks Checker')"
+a,"Exploratory TesterGet test report before testing",,,,"","","//a[contains(text(), 'Exploratory TesterGet test report before testing')]","a.elementor-element.elementor-element-d1aa022.e-con-full.e-flex.e-con.e-child","page.getByText('Exploratory TesterGet test report before testing')"
+a,"Page Load TimerGet Page Load Time",,,,"","","//a[contains(text(), 'Page Load TimerGet Page Load Time')]","a.elementor-element.elementor-element-c4f7b03.e-con-full.e-flex.e-con.e-child","page.getByText('Page Load TimerGet Page Load Time')"
+a,"Auto Data FillerGenerate Data Automatically",,,,"","","//a[contains(text(), 'Auto Data FillerGenerate Data Automatically')]","a.elementor-element.elementor-element-691214c.e-con-full.e-flex.e-con.e-child","page.getByText('Auto Data FillerGenerate Data Automatically')"
+a,"Screenshot with URLTake screenshots with URL bar",,,,"","","//a[contains(text(), 'Screenshot with URLTake screenshots with URL bar')]","a.elementor-element.elementor-element-a315cce.e-con-full.e-flex.e-con.e-child","page.getByText('Screenshot with URLTake screenshots with URL bar')"
+a,"Testing DailyApp To Get Testing Trends",,,,"","","//a[contains(text(), 'Testing DailyApp To Get Testing Trends')]","a.elementor-element.elementor-element-518b74b.e-con-full.e-flex.e-con.e-child","page.getByText('Testing DailyApp To Get Testing Trends')"
+a,"Auto TestDataGenerate Test Data",,,,"","","//a[contains(text(), 'Auto TestDataGenerate Test Data')]","a.elementor-element.elementor-element-d300030.e-con-full.e-flex.e-con.e-child","page.getByText('Auto TestDataGenerate Test Data')"
+a,"Claude Usage MeterLive usage limit above chat box",,,,"","","//a[contains(text(), 'Claude Usage MeterLive usage limit above chat box')]","a.elementor-element.elementor-element-3f67e76.e-con-full.e-flex.e-con.e-child","page.getByText('Claude Usage MeterLive usage limit above chat box')"
+a,"Clear CacheClear Cache & browsing data in 1 click",,,,"","","//a[contains(text(), 'Clear CacheClear Cache & browsing data in 1 click')]","a.elementor-element.elementor-element-c7c1acc.e-con-full.e-flex.e-con.e-child","page.getByText('Clear CacheClear Cache & browsing data in 1 click')"
+a,"Request MakerLog, send & edit HTTP requests",,,,"","","//a[contains(text(), 'Request MakerLog, send & edit HTTP requests')]","a.elementor-element.elementor-element-ea45208.e-con-full.e-flex.e-con.e-child","page.getByText('Request MakerLog, send & edit HTTP requests')"
+a,"CSS ViewerA simple CSS property viewer",,,,"","","//a[contains(text(), 'CSS ViewerA simple CSS property viewer')]","a.elementor-element.elementor-element-8777cf0.e-con-full.e-flex.e-con.e-child","page.getByText('CSS ViewerA simple CSS property viewer')"
+a,"Tool AnalyzerCompare Automation Tool",,,,"","","//a[contains(text(), 'Tool AnalyzerCompare Automation Tool')]","a.elementor-element.elementor-element-512ea4e.e-con-full.e-flex.e-con.e-child","page.getByText('Tool AnalyzerCompare Automation Tool')"
+a,"XPath Tester for XMLAuto generate xpath for xml",,,,"","","//a[contains(text(), 'XPath Tester for XMLAuto generate xpath for xml')]","a.elementor-element.elementor-element-7843e44.e-con-full.e-flex.e-con.e-child","page.getByText('XPath Tester for XMLAuto generate xpath for xml')"
+a,"SelectorHub AdsPromote testing tools & event with ",,,,"","","//a[contains(text(), 'SelectorHub AdsPromote testing tools & event with ')]","a.elementor-element.elementor-element-dabb505.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorHub AdsPromote testing tools & event with ')"
+button,"Close Pricing
+							
+							
+																Open",e-n-menu-dropdown-icon-3172,,,"","","//*[@id='e-n-menu-dropdown-icon-3172']","#e-n-menu-dropdown-icon-3172","page.locator('#e-n-menu-dropdown-icon-3172')"
+a,"PROPRO				
+			
+			
+						
+
+									
+						
+						",,,,"","","//a[@class='elementor-element elementor-element-e12250d e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-e12250d.e-con-full.e-flex.e-con.e-child","page.getByText('PROPRO				
+			
+			
+						
+
+									
+						
+						')"
+a,"PRO				
+			
+			
+						
+
+									
+						
+							Te",,,,"","","//a[@class='elementor-element elementor-element-33d0695 e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-33d0695.e-con-full.e-flex.e-con.e-child","page.getByText('PRO				
+			
+			
+						
+
+									
+						
+							Te')"
+a,"Check My Links - Key						
+					
+				
+									
+		",,,,"","","//a[contains(text(), 'Check My Links - Key						
+					
+				
+									
+		')]","a.elementor-element.elementor-element-e33d562.e-con-full.e-flex.e-con.e-child","page.getByText('Check My Links - Key						
+					
+				
+									
+		')"
+a,"Screenshot with URL - Key						
+					
+				
+							",,,,"","","//a[@class='elementor-element elementor-element-0e471aa e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-0e471aa.e-con-full.e-flex.e-con.e-child","page.getByText('Screenshot with URL - Key						
+					
+				
+							')"
+a,".st0{opacity:0.03;fill:#FFFFFF;}	.st1{fill:#FEFEFE",,,,"","","//a[@class='elementor-element elementor-element-3a98c05 e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-3a98c05.e-con-full.e-flex.e-con.e-child","page.getByText('.st0{opacity:0.03;fill:#FFFFFF;}	.st1{fill:#FEFEFE')"
+a,".cls-1{fill:#fff;}.cls-2{fill:#1d2a35;}.cls-3{fill",,,,"","","//a[@class='elementor-element elementor-element-67931bd e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-67931bd.e-con-full.e-flex.e-con.e-child","page.getByText('.cls-1{fill:#fff;}.cls-2{fill:#1d2a35;}.cls-3{fill')"
+a,".cls-1{fill:#fff;}.cls-2{fill:#f29a00;}				
+			
+		",,,,"","","//a[@class='elementor-element elementor-element-82ee903 e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-82ee903.e-con-full.e-flex.e-con.e-child","page.getByText('.cls-1{fill:#fff;}.cls-2{fill:#f29a00;}				
+			
+		')"
+a,"!010101				
+			
+			
+						
+
+									
+						
+					",,,,"","","//a[@class='elementor-element elementor-element-7a8a491 e-con-full e-flex e-con e-child']","a.elementor-element.elementor-element-7a8a491.e-con-full.e-flex.e-con.e-child","page.getByText('!010101				
+			
+			
+						
+
+									
+						
+					')"
+a,"SelectorsHub Offers						
+					
+				
+									
+			",,,,"","","//a[contains(text(), 'SelectorsHub Offers						
+					
+				
+									
+			')]","a.elementor-element.elementor-element-840b559.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorsHub Offers						
+					
+				
+									
+			')"
+a,"PKG Plan						
+					
+				
+									
+						Buy Sele",,,,"","","//a[contains(text(), 'PKG Plan						
+					
+				
+									
+						Buy Sele')]","a.elementor-element.elementor-element-4848b63.e-con-full.e-flex.e-con.e-child","page.getByText('PKG Plan						
+					
+				
+									
+						Buy Sele')"
+a,"Courses",,,,"","","//a[contains(text(), 'Courses')]","a.e-n-menu-title-container.e-focus.e-link","page.getByText('Courses')"
+a,"Practice",,,,"","","//a[contains(text(), 'Practice')]","a.e-n-menu-title-container.e-focus.e-link","page.getByText('Practice')"
+a,"Meetup",,,,"","","//a[contains(text(), 'Meetup')]","a.e-n-menu-title-container.e-focus.e-link","page.getByText('Meetup')"
+button,"Close Resources
+							
+							
+																Op",e-n-menu-dropdown-icon-3176,,,"","","//*[@id='e-n-menu-dropdown-icon-3176']","#e-n-menu-dropdown-icon-3176","page.locator('#e-n-menu-dropdown-icon-3176')"
+a,"Generative AI",,,,"","","//a[contains(text(), 'Generative AI')]","a.elementor-element.elementor-element-f2ff728.e-con-full.e-flex.e-con.e-child","page.getByText('Generative AI')"
+a,"Workshop | Register Now",,,,"","","//a[contains(text(), 'Workshop | Register Now')]","a.elementor-element.elementor-element-d619410.e-con-full.e-flex.e-con.e-child","page.getByText('Workshop | Register Now')"
+a,"Youtube Channel",,,,"","","//a[contains(text(), 'Youtube Channel')]","a.elementor-element.elementor-element-b8e35de.e-con-full.e-flex.e-con.e-child","page.getByText('Youtube Channel')"
+a,"Meetup",,,,"","","//a[contains(text(), 'Meetup')]","a.elementor-element.elementor-element-1dbe512.e-con-full.e-flex.e-con.e-child","page.getByText('Meetup')"
+a,"Certification",,,,"","","//a[contains(text(), 'Certification')]","a.elementor-element.elementor-element-dff4502.e-con-full.e-flex.e-con.e-child","page.getByText('Certification')"
+a,"Contact Us",,,,"","","//a[contains(text(), 'Contact Us')]","a.elementor-element.elementor-element-a909c80.e-con-full.e-flex.e-con.e-child","page.getByText('Contact Us')"
+a,"Blog",,,,"","","//a[contains(text(), 'Blog')]","a.elementor-element.elementor-element-fd1c24e.e-con-full.e-flex.e-con.e-child","page.getByText('Blog')"
+a,"Tutorials",,,,"","","//a[contains(text(), 'Tutorials')]","a.elementor-element.elementor-element-d638174.e-con-full.e-flex.e-con.e-child","page.getByText('Tutorials')"
+a,"XPath & cssSelector Functions",,,,"","","//a[contains(text(), 'XPath & cssSelector Functions')]","a.elementor-element.elementor-element-2a66fd6.e-con-full.e-flex.e-con.e-child","page.getByText('XPath & cssSelector Functions')"
+a,"Ambassador Program",,,,"","","//a[contains(text(), 'Ambassador Program')]","a.elementor-element.elementor-element-5e59d9b.e-con-full.e-flex.e-con.e-child","page.getByText('Ambassador Program')"
+a,"SelectorsHub Patrons",,,,"","","//a[contains(text(), 'SelectorsHub Patrons')]","a.elementor-element.elementor-element-d048eba.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorsHub Patrons')"
+a,"SelectorsHub Offers",,,,"","","//a[contains(text(), 'SelectorsHub Offers')]","a.elementor-element.elementor-element-268eb7a.e-con-full.e-flex.e-con.e-child","page.getByText('SelectorsHub Offers')"
+a,"Support",,,,"","","//a[contains(text(), 'Support')]","a.e-n-menu-title-container.e-focus.e-link","page.getByText('Support')"
+a,"",,,,"","","//a[@class='elementor-icon']","a.elementor-icon","page.locator('a.elementor-icon')"
+a,"Find out
+				
+					how to automate
+				
+					these",,,,"","","//a[contains(text(), 'Find out
+				
+					how to automate
+				
+					these')]","","page.getByText('Find out
+				
+					how to automate
+				
+					these')"
+a,"Get Free Access of Advanced XPath and CSS Selector",,,,"","","//a[contains(text(), 'Get Free Access of Advanced XPath and CSS Selector')]","a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-grow","page.getByText('Get Free Access of Advanced XPath and CSS Selector')"
+label,"User Email",,,,"","","//label[contains(text(), 'User Email')]","","page.getByText('User Email')"
+input,"",shub25,email,email,"","Enter email","//*[@id='shub25']","#shub25","page.locator('#shub25')"
+label,"Password",,,,"","","//label[contains(text(), 'Password')]","","page.getByText('Password')"
+input,"",pass,Password,password,"","Enter Password","//*[@id='pass']","#pass","page.locator('#pass')"
+label,"Company",,,,"","","//label[contains(text(), 'Company')]","","page.getByText('Company')"
+input,"",,company,text,"","Enter your company","//input[@name='company']","input.form-control","page.locator('[placeholder=""Enter your company""]')"
+label,"Mobile Number",,,,"","","//label[contains(text(), 'Mobile Number')]","","page.getByText('Mobile Number')"
+input,"",,mobile number,number,"","Enter your mobile number","//input[@name='mobile number']","input.form-control","page.locator('[placeholder=""Enter your mobile number""]')"
+label,"Country",,,,"","","//label[contains(text(), 'Country')]","","page.getByText('Country')"
+input,"",,,text,"","","//input[1]","","page.locator('//input[1]')"
+label,"Company",,,,"","","//label[contains(text(), 'Company')]","","page.getByText('Company')"
+input,"",,company,text,"","Enter your company","//input[@name='company']","input.form-control","page.locator('[placeholder=""Enter your company""]')"
+label,"Mobile Number",,,,"","","//label[contains(text(), 'Mobile Number')]","","page.getByText('Mobile Number')"
+input,"",,mobile number,number,"","Enter your mobile number","//input[@name='mobile number']","input.form-control","page.locator('[placeholder=""Enter your mobile number""]')"
+label,"Company",,,,"","","//label[contains(text(), 'Company')]","","page.getByText('Company')"
+input,"",,company,text,"","Enter your company","//input[@name='company']","input.form-control","page.locator('[placeholder=""Enter your company""]')"
+label,"Mobile Number",,,,"","","//label[contains(text(), 'Mobile Number')]","","page.getByText('Mobile Number')"
+input,"",,mobile number,number,"","Enter your mobile number","//input[@name='mobile number']","input.form-control","page.locator('[placeholder=""Enter your mobile number""]')"
+label,"Company",,,,"","","//label[contains(text(), 'Company')]","","page.getByText('Company')"
+input,"",,company,text,"","Enter your company","//input[@name='company']","input.form-control","page.locator('[placeholder=""Enter your company""]')"
+label,"Mobile Number",,,,"","","//label[contains(text(), 'Mobile Number')]","","page.getByText('Mobile Number')"
+input,"",,mobile number,number,"","Enter your mobile number","//input[@name='mobile number']","input.form-control","page.locator('[placeholder=""Enter your mobile number""]')"
+button,"Submit",,,,"","","//button[contains(text(), 'Submit')]","","page.getByText('Submit')"
+input,"",inp_val,,text,"","First Crush","//*[@id='inp_val']","#inp_val","page.locator('#inp_val')"
+a,"DownLoad Link",,,,"","","//a[contains(text(), 'DownLoad Link')]","","page.getByText('DownLoad Link')"
+a,"SelectorsHub Youtube Channel",,,,"","","//a[contains(text(), 'SelectorsHub Youtube Channel')]","a.elementor-button.elementor-button-link.elementor-size-sm.btn-hover","page.getByText('SelectorsHub Youtube Channel')"
+a,"A course with complex scenarios like 
+	Shadow DOM,",,,,"","","//a[2]","","page.getByText('A course with complex scenarios like 
+	Shadow DOM,')"
+a,"",,,,"","","//a[3]","","page.locator('//a[3]')"
+a,"",,,,"","","//a[4]","","page.locator('//a[4]')"
+input,"",ohrmList_chkSelectAll,chkSelectAll,checkbox,"","","//*[@id='ohrmList_chkSelectAll']","#ohrmList_chkSelectAll","page.locator('#ohrmList_chkSelectAll')"
+a,"Username",,,,"","","//a[contains(text(), 'Username')]","a.null","page.getByText('Username')"
+a,"User Role",,,,"","","//a[contains(text(), 'User Role')]","a.null","page.getByText('User Role')"
+a,"Employee Name",,,,"","","//a[contains(text(), 'Employee Name')]","a.null","page.getByText('Employee Name')"
+a,"Status",,,,"","","//a[contains(text(), 'Status')]","a.null","page.getByText('Status')"
+input,"",ohrmList_chkSelectRecord_25,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_25']","#ohrmList_chkSelectRecord_25","page.locator('#ohrmList_chkSelectRecord_25')"
+a,"Garry.White",,,,"","","//a[contains(text(), 'Garry.White')]","","page.getByText('Garry.White')"
+input,"",ohrmList_chkSelectRecord_16,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_16']","#ohrmList_chkSelectRecord_16","page.locator('#ohrmList_chkSelectRecord_16')"
+a,"Jasmine.Morgan",,,,"","","//a[contains(text(), 'Jasmine.Morgan')]","","page.getByText('Jasmine.Morgan')"
+input,"",ohrmList_chkSelectRecord_21,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_21']","#ohrmList_chkSelectRecord_21","page.locator('#ohrmList_chkSelectRecord_21')"
+a,"Joe.Root",,,,"","","//a[contains(text(), 'Joe.Root')]","","page.getByText('Joe.Root')"
+input,"",ohrmList_chkSelectRecord_2,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_2']","#ohrmList_chkSelectRecord_2","page.locator('#ohrmList_chkSelectRecord_2')"
+a,"John.Smith",,,,"","","//a[contains(text(), 'John.Smith')]","","page.getByText('John.Smith')"
+input,"",ohrmList_chkSelectRecord_14,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_14']","#ohrmList_chkSelectRecord_14","page.locator('#ohrmList_chkSelectRecord_14')"
+a,"Jordan.Mathews",,,,"","","//a[contains(text(), 'Jordan.Mathews')]","","page.getByText('Jordan.Mathews')"
+input,"",ohrmList_chkSelectRecord_15,chkSelectRow[],checkbox,"","","//*[@id='ohrmList_chkSelectRecord_15']","#ohrmList_chkSelectRecord_15","page.locator('#ohrmList_chkSelectRecord_15')"
+a,"Kevin.Mathews",,,,"","","//a[contains(text(), 'Kevin.Mathews')]","","page.getByText('Kevin.Mathews')"
+a,"Click to practice iframe inside shadow dom scenari",,,,"","","//a[contains(text(), 'Click to practice iframe inside shadow dom scenari')]","a.elementor-button.elementor-button-link.elementor-size-sm.btn-hover","page.getByText('Click to practice iframe inside shadow dom scenari')"
+label,"Can you enter name here through automation",,,,"","","//label[contains(text(), 'Can you enter name here through automation')]","","page.getByText('Can you enter name here through automation')"
+svg,"",,,,"","","//svg[1]","","page.locator('//svg[1]')"
+input,"",,test,,"","First Enter name","//input[@name='test']","input.nameFld","page.locator('[placeholder=""First Enter name""]')"
+input,"",,test,,"","Enter Last name","//input[@name='test']","input.nameFld","page.locator('[placeholder=""Enter Last name""]')"
+button,"Checkout here",,,,"","","//button[contains(text(), 'Checkout here')]","button.dropbtn","page.getByText('Checkout here')"
+a,"SHub Youtube Channel",,,,"","","//a[contains(text(), 'SHub Youtube Channel')]","","page.getByText('SHub Youtube Channel')"
+a,"Join Training",,,,"","","//a[contains(text(), 'Join Training')]","","page.getByText('Join Training')"
+a,"Try TestCase Studio",,,,"","","//a[contains(text(), 'Try TestCase Studio')]","","page.getByText('Try TestCase Studio')"
+label,"Choose a car:",,,,"","","//label[contains(text(), 'Choose a car:')]","","page.getByText('Choose a car:')"
+select,"Volvo
+   Saab
+   Opel
+   Audi",cars,cars,,"","","//*[@id='cars']","#cars","page.locator('#cars')"
+input,"",datepicker,,,"","","//*[@id='datepicker']","#datepicker","page.locator('#datepicker')"
+input,"",,the_date,date,"","","//input[@name='the_date']","input[name='the_date']","page.locator('input[name='the_date']')"
+a,"Consider a small Donation and support this page.",,,,"","","//a[contains(text(), 'Consider a small Donation and support this page.')]","a.elementor-button.elementor-button-link.elementor-size-sm.btn-hover","page.getByText('Consider a small Donation and support this page.')"
+a,"Click to practice shadow dom inside iframe scenari",,,,"","","//a[contains(text(), 'Click to practice shadow dom inside iframe scenari')]","a.elementor-button.elementor-button-link.elementor-size-sm.btn-hover","page.getByText('Click to practice shadow dom inside iframe scenari')"
+a,"SelectorsHub Youtube channel",,,,"","","//a[contains(text(), 'SelectorsHub Youtube channel')]","","page.getByText('SelectorsHub Youtube channel')"
+a,"Course Link",,,,"","","//a[contains(text(), 'Course Link')]","","page.getByText('Course Link')"
+a,"Click to Download PNG File",,,,"","","//a[contains(text(), 'Click to Download PNG File')]","a.elementor-button.elementor-button-link.elementor-size-sm.btn-hover","page.getByText('Click to Download PNG File')"
+input,"",myFile,filename,file,"","","//*[@id='myFile']","#myFile","page.locator('#myFile')"
+button,"Click To Open Window Alert",,,,"","","//button[contains(text(), 'Click To Open Window Alert')]","","page.getByText('Click To Open Window Alert')"
+button,"Click To Open Window Prompt Alert",,,,"","","//button[contains(text(), 'Click To Open Window Prompt Alert')]","","page.getByText('Click To Open Window Prompt Alert')"
+button,"Open Modal",myBtn,,,"","","//*[@id='myBtn']","#myBtn","page.locator('#myBtn')"
+a,"Testing Daily - Free App to get the latest testing",,,,"","","//a[contains(text(), 'Testing Daily - Free App to get the latest testing')]","","page.getByText('Testing Daily - Free App to get the latest testing')"
+a,"TestCase Studio- Free recorder plugin to generate ",,,,"","","//a[contains(text(), 'TestCase Studio- Free recorder plugin to generate ')]","","page.getByText('TestCase Studio- Free recorder plugin to generate ')"
+a,"This is a broken link",,,,"","","//a[contains(text(), 'This is a broken link')]","","page.getByText('This is a broken link')"
+a,"practice iframe and nested iframe scenarios.",,,,"","","//a[contains(text(), 'practice iframe and nested iframe scenarios.')]","a.elementor-button.elementor-button-link.elementor-size-sm","page.getByText('practice iframe and nested iframe scenarios.')"
+select,"102550100",dt-length-0,,,"","","//*[@id='dt-length-0']","#dt-length-0","page.locator('#dt-length-0')"
+label,"entries per page",,,,"","","//label[contains(text(), 'entries per page')]","","page.getByText('entries per page')"
+label,"Search:",,,,"","","//label[contains(text(), 'Search:')]","","page.getByText('Search:')"
+input,"",dt-search-0,,search,"","","//*[@id='dt-search-0']","#dt-search-0","page.locator('#dt-search-0')"
+span,"",,,,": Activate to sort","","//span[@aria-label=': Activate to sort']","span.dt-column-order","page.getByLabel(': Activate to sort')"
+span,"",,,,"OS: Activate to sort","","//span[@aria-label='OS: Activate to sort']","span.dt-column-order","page.getByLabel('OS: Activate to sort')"
+span,"",,,,"Browser: Activate to sort","","//span[@aria-label='Browser: Activate to sort']","span.dt-column-order","page.getByLabel('Browser: Activate to sort')"
+span,"",,,,"City: Activate to sort","","//span[@aria-label='City: Activate to sort']","span.dt-column-order","page.getByLabel('City: Activate to sort')"
+span,"",,,,"Country: Activate to sort","","//span[@aria-label='Country: Activate to sort']","span.dt-column-order","page.getByLabel('Country: Activate to sort')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+input,"",,,checkbox,"","","//input[1]","","page.locator('//input[1]')"
+button,"‹",,,button,"Previous","","//button[@aria-label='Previous']","button.dt-paging-button.disabled.previous","page.getByText('‹')"
+button,"1",,,button,"","","//button[contains(text(), '1')]","button.dt-paging-button.current","page.getByText('1')"
+button,"2",,,button,"","","//button[contains(text(), '2')]","button.dt-paging-button","page.getByText('2')"
+button,"3",,,button,"","","//button[contains(text(), '3')]","button.dt-paging-button","page.getByText('3')"
+button,"4",,,button,"","","//button[contains(text(), '4')]","button.dt-paging-button","page.getByText('4')"
+button,"5",,,button,"","","//button[contains(text(), '5')]","button.dt-paging-button","page.getByText('5')"
+button,"10",,,button,"","","//button[contains(text(), '10')]","button.dt-paging-button","page.getByText('10')"
+button,"›",,,button,"Next","","//button[@aria-label='Next']","button.dt-paging-button.next","page.getByText('›')"
+label,"Name on Card",,,,"","","//label[contains(text(), 'Name on Card')]","label.block.text-sm.font-medium.text-gray-600","page.getByText('Name on Card')"
+input,"",cardName,,text,"","John Doe","//*[@id='cardName']","#cardName","page.locator('#cardName')"
+label,"Card Number",,,,"","","//label[contains(text(), 'Card Number')]","label.block.text-sm.font-medium.text-gray-600","page.getByText('Card Number')"
+input,"",cardNumber,,text,"","1234 5678 9012 3456","//*[@id='cardNumber']","#cardNumber","page.locator('#cardNumber')"
+label,"Expiry Date",,,,"","","//label[contains(text(), 'Expiry Date')]","label.block.text-sm.font-medium.text-gray-600","page.getByText('Expiry Date')"
+input,"",expiry,,text,"","MM/YY","//*[@id='expiry']","#expiry","page.locator('#expiry')"
+label,"CVV",,,,"","","//label[contains(text(), 'CVV')]","label.block.text-sm.font-medium.text-gray-600","page.getByText('CVV')"
+input,"",cvv,,text,"","123","//*[@id='cvv']","#cvv","page.locator('#cvv')"
+button,"Pay ₹999",,,submit,"","","//button[contains(text(), 'Pay ₹999')]","button.w-full.bg-blue-600.text-white.py-3.rounded-lg.text-lg.font-semibold.hover:bg-blue-700.transition","page.getByText('Pay ₹999')"
+a,"Gaurav Khurana",,,,"","","//a[contains(text(), 'Gaurav Khurana')]","","page.getByText('Gaurav Khurana')"
+a,"Get In Touch",,,,"","","//a[contains(text(), 'Get In Touch')]","a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-grow","page.getByText('Get In Touch')"
 a,"",,,,"","","//a[1]","","page.locator('//a[1]')"
-a,"Elements",,,,"","","//a[contains(text(), 'Elements')]","","page.getByText('Elements')"
-a,"Forms",,,,"","","//a[contains(text(), 'Forms')]","","page.getByText('Forms')"
-a,"Alerts, Frame & Windows",,,,"","","//a[contains(text(), 'Alerts, Frame & Windows')]","","page.getByText('Alerts, Frame & Windows')"
-a,"Widgets",,,,"","","//a[contains(text(), 'Widgets')]","","page.getByText('Widgets')"
-a,"Interactions",,,,"","","//a[contains(text(), 'Interactions')]","","page.getByText('Interactions')"
-a,"Book Store Application",,,,"","","//a[contains(text(), 'Book Store Application')]","","page.getByText('Book Store Application')"
+a,"SelectorsHub – Best Tool to auto generate Playwrig",,,,"","","//a[contains(text(), 'SelectorsHub – Best Tool to auto generate Playwrig')]","a.elementor-item","page.getByText('SelectorsHub – Best Tool to auto generate Playwrig')"
+a,"TestCase Studio",,,,"","","//a[contains(text(), 'TestCase Studio')]","a.elementor-item","page.getByText('TestCase Studio')"
+a,"Check My Links",,,,"","","//a[contains(text(), 'Check My Links')]","a.elementor-item","page.getByText('Check My Links')"
+a,"Exploratory Tester",,,,"","","//a[contains(text(), 'Exploratory Tester')]","a.elementor-item","page.getByText('Exploratory Tester')"
+a,"Screenshot with URL",,,,"","","//a[contains(text(), 'Screenshot with URL')]","a.elementor-item","page.getByText('Screenshot with URL')"
+a,"Page Load Timer",,,,"","","//a[contains(text(), 'Page Load Timer')]","a.elementor-item","page.getByText('Page Load Timer')"
+a,"Testing Daily",,,,"","","//a[contains(text(), 'Testing Daily')]","a.elementor-item","page.getByText('Testing Daily')"
+a,"Auto Data Filler",,,,"","","//a[contains(text(), 'Auto Data Filler')]","a.elementor-item","page.getByText('Auto Data Filler')"
+a,"AutoTestData",,,,"","","//a[contains(text(), 'AutoTestData')]","a.elementor-item","page.getByText('AutoTestData')"
+a,"Automation Tool Analyzer",,,,"","","//a[contains(text(), 'Automation Tool Analyzer')]","a.elementor-item","page.getByText('Automation Tool Analyzer')"
+a,"AI Post Creator",,,,"","","//a[contains(text(), 'AI Post Creator')]","a.elementor-item","page.getByText('AI Post Creator')"
+a,"SelectorsHub – Best Tool to auto generate Playwrig",,,,"","","//a[contains(text(), 'SelectorsHub – Best Tool to auto generate Playwrig')]","a.elementor-item","page.getByText('SelectorsHub – Best Tool to auto generate Playwrig')"
+a,"TestCase Studio",,,,"","","//a[contains(text(), 'TestCase Studio')]","a.elementor-item","page.getByText('TestCase Studio')"
+a,"Check My Links",,,,"","","//a[contains(text(), 'Check My Links')]","a.elementor-item","page.getByText('Check My Links')"
+a,"Exploratory Tester",,,,"","","//a[contains(text(), 'Exploratory Tester')]","a.elementor-item","page.getByText('Exploratory Tester')"
+a,"Screenshot with URL",,,,"","","//a[contains(text(), 'Screenshot with URL')]","a.elementor-item","page.getByText('Screenshot with URL')"
+a,"Page Load Timer",,,,"","","//a[contains(text(), 'Page Load Timer')]","a.elementor-item","page.getByText('Page Load Timer')"
+a,"Testing Daily",,,,"","","//a[contains(text(), 'Testing Daily')]","a.elementor-item","page.getByText('Testing Daily')"
+a,"Auto Data Filler",,,,"","","//a[contains(text(), 'Auto Data Filler')]","a.elementor-item","page.getByText('Auto Data Filler')"
+a,"AutoTestData",,,,"","","//a[contains(text(), 'AutoTestData')]","a.elementor-item","page.getByText('AutoTestData')"
+a,"Automation Tool Analyzer",,,,"","","//a[contains(text(), 'Automation Tool Analyzer')]","a.elementor-item","page.getByText('Automation Tool Analyzer')"
+a,"AI Post Creator",,,,"","","//a[contains(text(), 'AI Post Creator')]","a.elementor-item","page.getByText('AI Post Creator')"
+a,"SelectorsHub Pro",,,,"","","//a[contains(text(), 'SelectorsHub Pro')]","a.elementor-item","page.getByText('SelectorsHub Pro')"
+a,"TestCase Studio Pro",,,,"","","//a[contains(text(), 'TestCase Studio Pro')]","a.elementor-item","page.getByText('TestCase Studio Pro')"
+a,"Promote with us",,,,"","","//a[contains(text(), 'Promote with us')]","a.elementor-item","page.getByText('Promote with us')"
+a,"SelectorsHub Pro",,,,"","","//a[contains(text(), 'SelectorsHub Pro')]","a.elementor-item","page.getByText('SelectorsHub Pro')"
+a,"TestCase Studio Pro",,,,"","","//a[contains(text(), 'TestCase Studio Pro')]","a.elementor-item","page.getByText('TestCase Studio Pro')"
+a,"Promote with us",,,,"","","//a[contains(text(), 'Promote with us')]","a.elementor-item","page.getByText('Promote with us')"
+a,"Courses",,,,"","","//a[contains(text(), 'Courses')]","a.elementor-item","page.getByText('Courses')"
+a,"Trainings",,,,"","","//a[contains(text(), 'Trainings')]","a.elementor-item","page.getByText('Trainings')"
+a,"Video Tutorials",,,,"","","//a[contains(text(), 'Video Tutorials')]","a.elementor-item","page.getByText('Video Tutorials')"
+a,"Meetup",,,,"","","//a[contains(text(), 'Meetup')]","a.elementor-item","page.getByText('Meetup')"
+a,"SelectorsHub Offers",,,,"","","//a[contains(text(), 'SelectorsHub Offers')]","a.elementor-item","page.getByText('SelectorsHub Offers')"
+a,"Courses",,,,"","","//a[contains(text(), 'Courses')]","a.elementor-item","page.getByText('Courses')"
+a,"Trainings",,,,"","","//a[contains(text(), 'Trainings')]","a.elementor-item","page.getByText('Trainings')"
+a,"Video Tutorials",,,,"","","//a[contains(text(), 'Video Tutorials')]","a.elementor-item","page.getByText('Video Tutorials')"
+a,"Meetup",,,,"","","//a[contains(text(), 'Meetup')]","a.elementor-item","page.getByText('Meetup')"
+a,"SelectorsHub Offers",,,,"","","//a[contains(text(), 'SelectorsHub Offers')]","a.elementor-item","page.getByText('SelectorsHub Offers')"
+a,"About Us",,,,"","","//a[contains(text(), 'About Us')]","a.elementor-item","page.getByText('About Us')"
+a,"Contact Us",,,,"","","//a[contains(text(), 'Contact Us')]","a.elementor-item","page.getByText('Contact Us')"
+a,"Sponsors",,,,"","","//a[contains(text(), 'Sponsors')]","a.elementor-item","page.getByText('Sponsors')"
+a,"Practice Page",,,,"","","//a[contains(text(), 'Practice Page')]","a.elementor-item.elementor-item-active","page.getByText('Practice Page')"
+a,"Cancellation & Refund Policy",,,,"","","//a[contains(text(), 'Cancellation & Refund Policy')]","a.elementor-item","page.getByText('Cancellation & Refund Policy')"
+a,"Certification",,,,"","","//a[contains(text(), 'Certification')]","a.elementor-item","page.getByText('Certification')"
+a,"Privacy Policy",,,,"","","//a[contains(text(), 'Privacy Policy')]","a.elementor-item","page.getByText('Privacy Policy')"
+a,"Terms of Service",,,,"","","//a[contains(text(), 'Terms of Service')]","a.elementor-item","page.getByText('Terms of Service')"
+a,"About Us",,,,"","","//a[contains(text(), 'About Us')]","a.elementor-item","page.getByText('About Us')"
+a,"Contact Us",,,,"","","//a[contains(text(), 'Contact Us')]","a.elementor-item","page.getByText('Contact Us')"
+a,"Sponsors",,,,"","","//a[contains(text(), 'Sponsors')]","a.elementor-item","page.getByText('Sponsors')"
+a,"Practice Page",,,,"","","//a[contains(text(), 'Practice Page')]","a.elementor-item.elementor-item-active","page.getByText('Practice Page')"
+a,"Cancellation & Refund Policy",,,,"","","//a[contains(text(), 'Cancellation & Refund Policy')]","a.elementor-item","page.getByText('Cancellation & Refund Policy')"
+a,"Certification",,,,"","","//a[contains(text(), 'Certification')]","a.elementor-item","page.getByText('Certification')"
+a,"Privacy Policy",,,,"","","//a[contains(text(), 'Privacy Policy')]","a.elementor-item","page.getByText('Privacy Policy')"
+a,"Terms of Service",,,,"","","//a[contains(text(), 'Terms of Service')]","a.elementor-item","page.getByText('Terms of Service')"
+a,"Youtube",,,,"","","//a[contains(text(), 'Youtube')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-youtube.elementor-animation-grow.elementor-repeater-item-cc570c7","page.getByText('Youtube')"
+a,"Telegram",,,,"","","//a[contains(text(), 'Telegram')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-telegram.elementor-animation-grow.elementor-repeater-item-4001c8f","page.getByText('Telegram')"
+a,"Instagram",,,,"","","//a[contains(text(), 'Instagram')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-instagram.elementor-animation-grow.elementor-repeater-item-3457919","page.getByText('Instagram')"
+a,"Linkedin",,,,"","","//a[contains(text(), 'Linkedin')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-linkedin.elementor-animation-grow.elementor-repeater-item-944edb1","page.getByText('Linkedin')"
+a,"Facebook",,,,"","","//a[contains(text(), 'Facebook')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-facebook.elementor-animation-grow.elementor-repeater-item-3f9244f","page.getByText('Facebook')"
+a,"Twitter",,,,"","","//a[contains(text(), 'Twitter')]","a.elementor-icon.elementor-social-icon.elementor-social-icon-twitter.elementor-animation-grow.elementor-repeater-item-b10c6ff","page.getByText('Twitter')"
+label,"Search",,,,"","","//label[contains(text(), 'Search')]","label.e-search-label","page.getByText('Search')"
+input,"",search-c7280ca,s,search,"","Type to start searching...","//*[@id='search-c7280ca']","#search-c7280ca","page.locator('#search-c7280ca')"
+button,"Search",,,submit,"","","//button[contains(text(), 'Search')]","button.e-search-submit","page.getByText('Search')"
+input,"",,e_search_props,hidden,"","","//input[@name='e_search_props']","input[name='e_search_props']","page.locator('input[name='e_search_props']')"
