@@ -1,0 +1,3 @@
+✅ Extracted 226 interactive elements and saved to xpaths.csv
+📋 Columns: Tag, Text, ID, Name, Type, AriaLabel, Placeholder, RelativeXPath, CssSelector, PlaywrightLocator
+XPaths extracted successfully
